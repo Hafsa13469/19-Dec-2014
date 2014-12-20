@@ -1,0 +1,8 @@
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\bin\Debug\ThreeStudentInfoApp.exe.config
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\bin\Debug\ThreeStudentInfoApp.exe
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\bin\Debug\ThreeStudentInfoApp.pdb
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\obj\Debug\ThreeStudentInfoApp.Form1.resources
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\obj\Debug\ThreeStudentInfoApp.Properties.Resources.resources
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\obj\Debug\ThreeStudentInfoApp.csproj.GenerateResource.Cache
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\obj\Debug\ThreeStudentInfoApp.exe
+D:\ASP CODE\19-12-2014\ThreeStudentInfoApp\ThreeStudentInfoApp\obj\Debug\ThreeStudentInfoApp.pdb

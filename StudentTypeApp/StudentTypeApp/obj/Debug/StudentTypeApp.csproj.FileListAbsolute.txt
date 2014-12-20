@@ -1,0 +1,5 @@
+D:\ASP CODE\19-12-2014\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.exe.config
+D:\ASP CODE\19-12-2014\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.exe
+D:\ASP CODE\19-12-2014\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.pdb
+D:\ASP CODE\19-12-2014\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.exe
+D:\ASP CODE\19-12-2014\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.pdb

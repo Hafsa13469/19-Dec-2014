@@ -1,0 +1,8 @@
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.StudentInformationUI.resources
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+D:\ASP CODE\19-12-2014\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb

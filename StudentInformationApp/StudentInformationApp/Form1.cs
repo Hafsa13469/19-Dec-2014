@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace StudentInformationApp
+{
+    public partial class StudentInformationUI : Form
+    {
+        List<Student> students = new List<Student>();
+        string Message;
+        string info = ("Regitration No                   FullName" + "\n");
+       
+       
+        public StudentInformationUI()
+        {
+            InitializeComponent();
+        }
+
+        private void saveButton_Click(object sender, EventArgs e)
+        {
+            Student student1 = new Student();
+            student1.regNo = regNoTextBox.Text;
+            student1.firstName = firstNameTextBox.Text;
+            student1.lastName = lastNameTextBox.Text;
+
+            regNoTextBox.Text = string.Empty;
+            firstNameTextBox.Text = string.Empty;
+            lastNameTextBox.Text = string.Empty;
+
+            
+
+            students.Add(student1);
+          
+
+        }
+
+        private void showButton_Click(object sender, EventArgs e)
+        {
+            
+
+            foreach(Student astudent in students)
+            
+            {
+                Message+=( astudent.regNo + "                                          " + astudent.GetFullName()+"\n");
+               
+            }
+            MessageBox.Show(info + Message);
+        }
+    
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            Message = string.Empty;
+            students.Clear();
+        }
+    }
+}

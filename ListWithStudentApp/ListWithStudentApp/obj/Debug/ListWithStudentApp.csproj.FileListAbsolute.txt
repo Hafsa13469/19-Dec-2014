@@ -1,0 +1,6 @@
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\bin\Debug\ListWithStudentApp.exe.config
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\obj\Debug\ListWithStudentApp.csprojResolveAssemblyReference.cache
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\bin\Debug\ListWithStudentApp.exe
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\bin\Debug\ListWithStudentApp.pdb
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\obj\Debug\ListWithStudentApp.exe
+D:\ASP CODE\19-12-2014\ListWithStudentApp\ListWithStudentApp\obj\Debug\ListWithStudentApp.pdb
